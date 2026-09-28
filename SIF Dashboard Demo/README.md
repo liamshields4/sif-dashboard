@@ -2,7 +2,7 @@
 
 A single-file portfolio dashboard for a student-managed investment fund, built on the daily activity statements Interactive Brokers sends.
 
-**Live demo:** https://YOUR-USERNAME.github.io/sif-dashboard/
+**Live demo:** https://liamshields4.github.io/sif-dashboard/
 
 ![Overview](screenshots/01-overview.png)
 
